@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataBase_Exam_Zoo", "DataBase_Exam_Zoo\DataBase_Exam_Zoo.csproj", "{0EDCAFCB-FC48-4316-AD29-088A1DBD51C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase_Exam_Zoo_WindowsForm", "DataBase_Exam_Zoo_WindowsForm\DataBase_Exam_Zoo_WindowsForm.csproj", "{5ACBFA84-4C39-4773-8F81-F9481BF74E58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EDCAFCB-FC48-4316-AD29-088A1DBD51C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDCAFCB-FC48-4316-AD29-088A1DBD51C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDCAFCB-FC48-4316-AD29-088A1DBD51C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDCAFCB-FC48-4316-AD29-088A1DBD51C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACBFA84-4C39-4773-8F81-F9481BF74E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACBFA84-4C39-4773-8F81-F9481BF74E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACBFA84-4C39-4773-8F81-F9481BF74E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACBFA84-4C39-4773-8F81-F9481BF74E58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82A96823-E93E-4C13-AFFB-C307E1582220}
+	EndGlobalSection
+EndGlobal
